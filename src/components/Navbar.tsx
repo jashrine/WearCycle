@@ -140,7 +140,7 @@ const Navbar = ({
 
         {/* Logo */}
         <Link to="/" className="flex items-center space-x-2">
-          <img src="/wearcycle.png" alt="WearCycle Logo" className="h-8 w-8" />
+          <img src="/wearcyclee.png" alt="WearCycle Logo" className="h-8 w-8" />
           <span className="font-bold text-2xl text-emerald-600">{logo}</span>
         </Link>
 
