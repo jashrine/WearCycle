@@ -216,9 +216,9 @@ const ItemDetailModal = ({
             </DialogHeader>
 
             <div className="mt-4 flex items-baseline gap-2">
-              <span className="text-2xl font-bold">${item.rentalPrice}</span>
+              <span className="text-2xl font-bold">₱{item.rentalPrice}</span>
               <span className="text-gray-500 line-through">
-                ${item.retailPrice}
+                ₱{item.retailPrice}
               </span>
               <span className="text-sm text-gray-500">
                 / {rentalDuration}-day rental
