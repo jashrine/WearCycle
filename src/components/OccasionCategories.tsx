@@ -24,7 +24,7 @@ const OccasionCategories = ({
       id: "wedding",
       name: "Wedding",
       image:
-        "https://images.unsplash.com/photo-1516685018646-549198525c1b?w=400&q=80",
+        "https://images.unsplash.com/photo-1519741497674-611481863552?w=400&q=80",
       itemCount: 42,
     },
     {
@@ -52,7 +52,7 @@ const OccasionCategories = ({
       id: "date-night",
       name: "Date Night",
       image:
-        "https://images.unsplash.com/photo-1529634506268-b4e99ab08bbd?w=400&q=80",
+        "https://images.unsplash.com/photo-1516685018646-549198525c1b?w=400&q=80",
       itemCount: 31,
     },
     {
