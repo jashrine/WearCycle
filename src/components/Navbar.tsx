@@ -139,11 +139,9 @@ const Navbar = ({
         </div>
 
         {/* Logo */}
-        <Link
-          to="/"
-          className="font-bold text-2xl text-emerald-600 flex-shrink-0"
-        >
-          {logo}
+        <Link to="/" className="flex items-center space-x-2">
+          <img src="/wearcycle.png" alt="WearCycle Logo" className="h-8 w-8" />
+          <span className="font-bold text-2xl text-emerald-600">{logo}</span>
         </Link>
 
         {/* Desktop Navigation */}
